@@ -84,7 +84,7 @@ bangdream-live-planner/
 
 ## 使用方式
 
-将本技能安装到 QoderWork 后，当提到以下关键词时会自动触发：
+将本技能安装到，当提到以下关键词时会自动触发：
 
 - BanG Dream、Bushiroad、Live 演出
 - 演出日程、巡演安排、粉丝见面会
