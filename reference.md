@@ -265,6 +265,77 @@ When multiple leave-day options exist, list them ALL with full itineraries:
 
 ## Hotel Area & Local Exploration Guide
 
+## City Venue Index
+
+Quick reference for Location-First Mode searches. When a user names a city, search these venues first.
+
+### Tokyo & Greater Tokyo
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Tokyo Garden Theater | Ariake / Odaiba | Large (8,000) | Major lives, good transport |
+| Nippon Budokan | Kudanshita | Large (14,000) | Prestige venue, historic |
+| Yokohama Arena | Yokohama | Large (17,000) | Major tours, easy from Tokyo |
+| Saitama Super Arena | Saitama | Arena (37,000) | Large-scale events |
+| Zepp DiverCity | Odaiba | Medium (2,500) | Standard tour stop |
+| Zepp Haneda | Haneda / Ota | Medium (2,500) | Near airport |
+| LINE CUBE SHIBUYA | Shibuya | Medium (2,000) | Central location |
+| EX THEATER ROPPONGI | Roppongi | Small-Medium (1,000) | Intimate lives |
+| TACHIKAWA STAGE GARDEN | Tachikawa | Medium (3,000) | West Tokyo |
+| KT Zepp Yokohama | Yokohama | Medium (2,500) | Alternative to Tokyo venues |
+| Pacifico Yokohama | Yokohama | Large (5,000) | Convention center hall |
+| Nakano Sun Plaza | Nakano | Medium (2,200) | Historic live venue |
+| Shibuya WWW / WWW X | Shibuya | Small (500-1,000) | Small lives, club events |
+
+### Osaka & Kansai
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Osaka-Jo Hall | Osaka Castle Park | Large (16,000) | Major tours |
+| Intex Osaka | Suminoe | Large (Varies) | Exhibition hall, large events |
+| Zepp Osaka Bayside | Osaka Bay | Medium (2,500) | Standard tour stop |
+| Zepp Namba | Namba | Medium (2,500) | Central Osaka, very accessible |
+| Orix Theater | Namba | Medium (2,400) | Well-equipped theater |
+| Osaka Castle Music Hall | Osaka Castle | Medium (2,000) | Unique castle backdrop |
+| Kyoto ROHM Theatre | Kyoto | Large (2,000) | Occasionally used for lives |
+
+### Nagoya & Chubu
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Nippon Gaishi Hall | Nagoya | Large (10,000) | Major tours |
+| Aichi Sky Expo | Tokoname | Large (Varies) | Near Chubu Centrair Airport |
+| Zepp Nagoya | Nagoya | Medium (2,500) | Standard tour stop |
+| Nagoya Congress Center | Nagoya | Medium (3,000) | Convention center |
+
+### Fukuoka & Kyushu
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Marine Messe Fukuoka | Hakata / Chuo | Large (15,000) | Major tours, waterfront |
+| Fukuoka Sunpalace | Hakata | Medium (2,500) | Well-known concert hall |
+| Zepp Fukuoka | Hakata | Medium (2,500) | Standard tour stop |
+| Fukuoka Convention Center | Hakata | Medium (Varies) | Multiple halls |
+
+### Sapporo & Hokkaido
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Makomanai Sekisuiheim Ice Arena | Sapporo | Large (11,000) | Major tours |
+| Hokkaido Prefectural Sports Center | Sapporo | Large (8,000) | Basketball arena, also for lives |
+| Zepp Sapporo | Sapporo | Medium (2,000) | Standard tour stop |
+| Sapporo Cultural Arts Theater | Sapporo | Medium (2,000) | Theater-style |
+| Nitori Culture Hall (Kitara) | Sapporo | Medium (2,300) | Concert hall |
+
+### Hiroshima & Chugoku
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Hiroshima Green Arena | Hiroshima | Large (8,000) | Major tours |
+| Hiroshima Bunka Gakuen HBG Hall | Hiroshima | Medium (2,000) | Concert hall |
+| Zepp DiverCity Hiroshima | Hiroshima | Medium (2,000) | Standard tour stop |
+
+### Sendai & Tohoku
+| Venue | Area | Capacity Tier | Notes |
+|-------|------|---------------|-------|
+| Xebio Arena Sendai | Sendai | Large (7,000) | Major tours |
+| Sendai Sunplaza Hall | Sendai | Medium (2,500) | Concert hall |
+| Zepp Sendai | Sendai | Medium (2,000) | Standard tour stop |
+
 ### Major Live Venue Areas & Nearby Highlights
 
 **Tokyo Garden Theater (有明アリーナ / 有明地区)**
